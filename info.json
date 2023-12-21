@@ -1,0 +1,22 @@
+{
+    "name": "Bigger_Ore_Stacks_Forked",
+    "version": "0.2.1",
+    "factorio_version": "1.1",
+    "title": "Bigger Ore Stacks (Forked)",
+    "author": "nihilistzsche",
+    "contact": "",
+    "homepage": "",
+    "dependencies": [
+      "base >= 1.1.0",
+      "bzaluminum >= 0.1.4",
+      "bzcarbon >= 0.1.7",
+      "bzfoundry >= 0.1.1",
+      "bzlead >= 0.6.5",
+      "bzsilicon >= 0.9.0",
+      "bztin>= 0.1.0",
+      "bztitanium >= 0.12.4",
+      "bztungsten >= 0.5.2",
+      "bzzirconium >= 0.4.4"
+    ],
+    "description": "Sets the stack size of ores and plates in the base game to a configurable value (250 default). Original Creator Mod by detourious. Updated by PablitusElMakina. Forked and changed to a setting by nihilistzsche."
+}
